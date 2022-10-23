@@ -1,5 +1,6 @@
 # merge-patika
-patika dev ödevi. 
+www.patika.dev
+patika Kiti.
 1. Soru. 
 16-21-11-8-12-22.  
 16-21-11    8-12-22. 
